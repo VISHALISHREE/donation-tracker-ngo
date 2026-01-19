@@ -19,8 +19,8 @@ Developed as a community-connect project to help NGOs track donations transparen
 ## Screenshots
 
 ### Home Page
-![Home](screenshots/homepage1.png)
-(screenshots/homepage2.png)
+![Home 1](screenshots/homepage1.png)
+![Home 2](screenshots/homepage2.png)
 
 ### Add Donor
 ![Add Donor](screenshots/add_donorpage.png)
@@ -29,5 +29,5 @@ Developed as a community-connect project to help NGOs track donations transparen
 ![Add Donation](screenshots/add_donationpage.png)
 
 ### View Donations
-![View Donations](screenshots/view_donationspage1.png)
-(screenshots/view_donationspage2.png)
+![View Donations 1](screenshots/view_donationspage1.png)
+![View Donations 2](screenshots/view_donationspage2.png)
